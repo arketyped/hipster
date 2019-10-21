@@ -8,6 +8,6 @@
 ## Screenshots 📸
 <br>
 
-![](https://i.imgur.com/EPCPlHb.png)
+![](https://i.imgur.com/Mg25M9T.png)
 
 <br>
