@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>one-dark</id>
+  <editorColorsScheme>One Dark</editorColorsScheme>
+  <dark>true</dark>
+  <name>One Dark</name>
+  <colors>
+    <color id="background" value="262626ff"/>
+    <color id="foreground" value="979fadff"/>
+    <color id="text" value="979fadff"/>
+    <color id="highlight" value="383d48ff"/>
+    <color id="selectionBackground" value="3a3f4bff"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="3a3f4bff"/>
+    <color id="secondaryBackground" value="303030ff"/>
+    <color id="disabled" value="6b727dff"/>
+    <color id="contrast" value="262626ff"/>
+    <color id="tableSelected" value="383e49ff"/>
+    <color id="secondBorder" value="262626ff"/>
+    <color id="treeSelection" value="3a3f4b80"/>
+    <color id="notifications" value="262626ff"/>
+    <color id="accent" value="2979ffff"/>
+    <color id="excluded" value="3c4150ff"/>
+  </colors>
+  <themeId>one-dark</themeId>
+</mtTheme>
